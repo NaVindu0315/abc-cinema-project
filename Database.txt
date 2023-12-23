@@ -1,0 +1,19 @@
+DB Name = abc_cinema
+
+create table comments (
+name varchar,
+film varchar,
+theator varchar,
+comment varchar,
+);
+
+create table pay{
+name varchar,
+id varchar,
+email varchar,
+film varchar,
+filmhall varchar,
+dt varchar,
+tm varchar,
+ftck varchar,
+htck varchar);
